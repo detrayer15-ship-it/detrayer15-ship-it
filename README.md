@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Daniyal 👋</h1>
+<h3 align="center">Beginner Developer from Kazakhstan 🇰🇿</h3>
 
-<!--
-**detrayer15-ship-it/detrayer15-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About me:
+- 🎓 I'm a student
+- 💻 I’m learning programming (Python, Web)
+- 🚀 I want to become a strong developer
+- 📍 Kazakhstan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=detrayer15-ship-it&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### 📫 Contact:
+- Telegram: @your_username
+- Email: your@email.com
