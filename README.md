@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Contact:
-- Telegram: @your_username
-- Email: your@email.com
+- 📧 Email: detrayer15@gmail.com  
+- 💬 Telegram: https://t.me/Detrayer
