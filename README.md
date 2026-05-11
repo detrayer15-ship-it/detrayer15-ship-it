@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About me:
-- 🎓 I'm a student
+- 🎓 I'm a Schoolboy
 - 💻 I’m learning programming (Python, Web)
 - 🚀 I want to become a strong developer
 - 📍 Kazakhstan
